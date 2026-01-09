@@ -25,6 +25,7 @@ jobs:
             dist/cat-paws-light.svg?palette=github-light&color_snake=#ff6fae&color_dots=#4fae8a,#f7a1c4,#2f8f6b,#000000
 
 
+
       - name: push cat paws to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
