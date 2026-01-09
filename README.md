@@ -65,11 +65,12 @@ I enjoy:
 ---
 
 ## 🕸️ contribution pulse
-<div align="center">
-<img src="https://raw.githubusercontent.com/ItsZed0/github-assets/main/pixel-cat-sleep.gif" width="90"/>
-</div>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bakwasbandd&bg_color=fff5f8&color=7bbf9e&line=f7a1c4&point=7bbf9e&area=true&hide_border=true)
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="45"/>
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakwasbandd&theme=rose_pine)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakwasbandd&theme=rose_pine)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakwasbandd&theme=rose_pine)
 
 ---
 
@@ -86,7 +87,7 @@ I enjoy:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="130"/>
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150"/>
 
 
 🐈‍⬛ learning, figuring things out, building things along the way —  
