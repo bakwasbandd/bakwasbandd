@@ -25,9 +25,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/cat-paws.svg?palette=github-dark&color_snake=#ff6fae&color_dots=#9be3c2,#ffd6e7,#6fd3a6,#ffffff
-            dist/cat-paws-light.svg?palette=github-light&color_snake=#ff6fae&color_dots=#4fae8a,#f7a1c4,#2f8f6b,#000000
-
+            dist/cat-paws.svg?palette=github-dark&color_snake=#DE5D83&color_dots=#50C878,#a8e6c3,#f4a7bc,#ffffff
+            dist/cat-paws-light.svg?palette=github-light&color_snake=#DE5D83&color_dots=#2f8f6b,#50C878,#DE5D83,#000000
       - name: Push cat paws to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
