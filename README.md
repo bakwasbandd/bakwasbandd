@@ -64,6 +64,23 @@ I enjoy:
 
 ---
 
+### 📊 data & ml
+
+![NumPy](https://img.shields.io/badge/NumPy-C1E1C1?style=for-the-badge&logo=numpy&logoColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-FADADD?style=for-the-badge&logo=pandas&logoColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F7D6E0?style=for-the-badge&logo=python&logoColor=000000)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-CDEAC0?style=for-the-badge&logo=scikitlearn&logoColor=000000)
+
+---
+
+### ⚙️ tools & automation
+
+![n8n](https://img.shields.io/badge/n8n-F4C2C2?style=for-the-badge&logo=n8n&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-C1E1C1?style=for-the-badge&logo=git&logoColor=000000)
+
+
+---
+
 ## ⭐ contribution pulse
 
 <!-- ![3D Contributions](https://raw.githubusercontent.com/bakwasbandd/bakwasbandd/main/profile-3d-contrib/profile-night-green.svg) -->
