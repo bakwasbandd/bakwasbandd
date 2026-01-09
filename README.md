@@ -90,7 +90,7 @@ I enjoy:
 </p>
 
 <p align="center">
-  🐈‍⬛ cat-approved commits only
+  🐈‍🐾 cat-approved commits only
 </p>
 
 ---
@@ -100,7 +100,7 @@ I enjoy:
 <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150"/>
 
 
-🐈‍⬛ learning, figuring things out, building things along the way —  
-and petting cats in between 🐈‍⬛
+🐈‍🐾 learning, figuring things out, building things along the way —  
+and petting cats in between 🐈‍🐾
 
 </div>
