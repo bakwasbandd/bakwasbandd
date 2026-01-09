@@ -16,13 +16,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate cat-paw animation
+        - name: generate cat-paw animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/cat-paws.svg?palette=github-light&color_snake=f7a1c4&color_dots=#cdeac0,#f7d6e0,#c1e1c1,#f4c2c2,#ffffff
-            dist/cat-paws-dark.svg?palette=github-dark
+            dist/cat-paws.svg?palette=github-dark&color_snake=#ff6fae&color_dots=#9be3c2,#ffd6e7,#6fd3a6,#ffffff
+            dist/cat-paws-light.svg?palette=github-light&color_snake=#ff6fae&color_dots=#4fae8a,#f7a1c4,#2f8f6b,#000000
+
 
       - name: push cat paws to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
