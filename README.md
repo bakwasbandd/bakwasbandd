@@ -64,24 +64,9 @@ I enjoy:
 
 ---
 
-## 🕸️ contribution pulse
+## ⭐ contribution pulse
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="45"/>
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakwasbandd&theme=rose_pine)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakwasbandd&theme=rose_pine)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakwasbandd&theme=rose_pine)
-
----
-
-## ⭐ github stats (soft edition)
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bakwasbandd&show_icons=true&theme=rose_pine&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bakwasbandd&theme=rose_pine&hide_border=true)
-
-</div>
+![3D Contributions](https://raw.githubusercontent.com/bakwasbandd/bakwasbandd/main/profile-3d-contrib/profile-night-green.svg)
 
 ---
 
