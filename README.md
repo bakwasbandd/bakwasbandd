@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130"/>
 
 ### ⭐**hiii, i’m Muntaha Adnan!** ⭐
-cs @ FAST-NUCES
+**cs @ FAST-NUCES**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7A1C4&center=true&vCenter=true&width=520&lines=Computer+Science+Student+%7C+Class+of+2027;AI+%2F+ML+%7C+Agentic+AI+Explorer;Backend+Enjoyer+%7C+Game+Dev+Curious;Building+cool+things+one+commit+at+a+time" />
 
@@ -12,8 +12,9 @@ cs @ FAST-NUCES
 ---
 
 ## ⭐ about me
-
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="35"/>
+<div align="center">
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="90"/>
+</div>
 
 🎓 **Computer Science junior @ FAST University**  
 📅 **Graduating 2027**
@@ -28,8 +29,6 @@ I enjoy:
 
 
 ---
-
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60"/>
 
 
 ## ⭐ interests right now
@@ -66,10 +65,11 @@ I enjoy:
 ---
 
 ## 🕸️ contribution pulse
+<div align="center">
+<img src="https://raw.githubusercontent.com/ItsZed0/github-assets/main/pixel-cat-sleep.gif" width="90"/>
+</div>
 
-<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="50"/>
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=fff5f8&color=7bbf9e&line=f7a1c4&point=7bbf9e&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bakwasbandd&bg_color=fff5f8&color=7bbf9e&line=f7a1c4&point=7bbf9e&area=true&hide_border=true)
 
 ---
 
@@ -77,8 +77,8 @@ I enjoy:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=bakwasbandd&show_icons=true&theme=rose_pine&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bakwasbandd&theme=rose_pine&hide_border=true)
 
 </div>
 
@@ -86,7 +86,7 @@ I enjoy:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="45"/>
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="130"/>
 
 
 🐈‍⬛ learning, figuring things out, building things along the way —  
