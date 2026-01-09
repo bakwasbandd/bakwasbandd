@@ -93,6 +93,27 @@ I enjoy:
   🐈‍🐾 cat-approved commits only
 </p>
 
+
+---
+
+## ⭐ connect with me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/muntaha-adnan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/muntahadnan/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:muntahaadnan2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 <div align="center">
