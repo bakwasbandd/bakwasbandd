@@ -66,9 +66,15 @@ I enjoy:
 
 ## ⭐ contribution pulse
 
-![3D Contributions](https://raw.githubusercontent.com/bakwasbandd/bakwasbandd/main/profile-3d-contrib/profile-night-green.svg)
+<!-- ![3D Contributions](https://raw.githubusercontent.com/bakwasbandd/bakwasbandd/main/profile-3d-contrib/profile-night-green.svg) -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bakwasbandd/bakwasbandd/output/cat-paws.svg" />
+</p>
 
+<p align="center">
+  🐈‍⬛ cat-approved commits only
+</p>
 
 ---
 
