@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130"/>
 
-### ⭐**hiii, i’m Muntaha Adnan!**⭐
+### ⭐ **hiii, i’m Muntaha Adnan!** ⭐
 **cs @ FAST-NUCES**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7A1C4&center=true&vCenter=true&width=520&lines=Computer+Science+Student+%7C+Class+of+2027;AI+%2F+ML+%7C+Agentic+AI+Explorer;Backend+Enjoyer+%7C+Game+Dev+Curious;Building+cool+things+one+commit+at+a+time" />
